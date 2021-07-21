@@ -1,0 +1,22 @@
+
+1. Dataset Info 
+(1) The current dataset is 16282 tuples. 
+(2) f = 20 and t =7 .
+2. Update Analy 
+ A single update needs : 420 ms.
+ 
+
+
+1. Dataset Info 
+(1) The current dataset is 32564 tuples. 
+(2) f = 20 and t =7 .
+2. Update Analy 
+ A single update needs : 474 ms.
+
+
+
+1. Dataset Info 
+(1) The current dataset is 65128 tuples. 
+(2) f = 20 and t =7 .
+2. Update Analy 
+ A single update needs : 551 ms.

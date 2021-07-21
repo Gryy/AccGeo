@@ -1,0 +1,115 @@
+ 
+1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 100.0m ;
+(3) The length of a search token : tQ =6 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,763ms and Client--286ms.
+the OPTIMIZED total query time is :2,049ms.
+the number of retrieved Points is : 135.
+ 
+ 
+ 
+ 1. (1) The dataset size is : n =63369.  
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 500.0m ;
+(3) The length of a search token : tQ =6 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,860ms and Client--293ms.
+the OPTIMIZED total query time is :2,143ms.
+the number of retrieved Points is : 306.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m ;
+(3) The length of a search token : tQ =5 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,835ms and Client--650ms.
+the OPTIMIZED total query time is :2,485ms.
+the number of retrieved Points is : 735.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 2000.0m ;
+(3) The length of a search token : tQ =5 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,860ms and Client--664ms.
+the OPTIMIZED total query time is :2,524ms.
+the number of retrieved Points is : 999.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 3000.0m ;
+(3) The length of a search token : tQ =4 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,762ms and Client--939ms.
+the OPTIMIZED total query time is :2,701ms.
+the number of retrieved Points is : 3798.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 10000.0m ;
+(3) The length of a search token : tQ =4 
+(4) The Flag bits length : f =20 .
+2. The OPTIMIZED time of once range query is : Server--1,764ms and Client--996ms.
+the OPTIMIZED total query time is :2,760ms.
+the number of retrieved Points is : 22122.
+
+
+
+----------------------------------------------------------------------------------------
+Analysis for the param 'f' -----
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m. 
+(3) The length of a search token : tQ =5. 
+(4) The Flag bits length : f =20 .
+2. The UNOPTIMIZED time of once range query is : Server--1,930ms and Client--657ms.
+the UNOPTIMIZED total query time is :2,57ms.
+the number of retrieved Points is : 735.
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m. 
+(3) The length of a search token : tQ =5. 
+(4) The Flag bits length : f =10 .
+2. The UNOPTIMIZED time of once range query is : Server--1,906ms and Client--653ms.
+the UNOPTIMIZED total query time is :2,559ms.
+the number of retrieved Points is : 735.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m. 
+(3) The length of a search token : tQ =5. 
+(4) The Flag bits length : f =10 .
+2. The OPTIMIZED time of once range query is : Server--1,799ms and Client--654ms.
+the OPTIMIZED total query time is :2,453ms.
+the number of retrieved Points is : 735.
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m. 
+(3) The length of a search token : tQ =5. 
+(4) The Flag bits length : f =40 .
+2. The UNOPTIMIZED time of once range query is : Server--1,858ms and Client--649ms.
+the UNOPTIMIZED total query time is :2,507ms.
+the number of retrieved Points is : 735.
+
+
+
+
+ 1. (1) The dataset size is : n =63369. 
+(2) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m. 
+(3) The length of a search token : tQ =5. 
+(4) The Flag bits length : f =40 .
+2. The OPTIMIZED time of once range query is : Server--1,814ms and Client--644ms.
+the OPTIMIZED total query time is :2,458ms.
+the number of retrieved Points is : 735.
+
+
+

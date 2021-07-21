@@ -1,0 +1,262 @@
+
+
+1. Dataset Info 
+(1) The current dataset is 9304 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 30 ;
+The size of encrypted indexes is : 290.75KB.
+(2) The size of local list is : 199.890625KB.
+(3) The encryption time on INXes is : 1,980ms.
+
+
+
+1. Dataset Info 
+(1) The current dataset is 4652 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 145.375KB.
+(2) The size of local list is : 68.14453125KB.
+(3) The encryption time on INXes is : 1,374ms.
+
+
+
+1. Dataset Info 
+(1) The current dataset is 2326 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 72.6875KB.
+(2) The size of local list is : 34.072265625KB.
+(3) The encryption time on INXes is : 922ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 16282 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 508.8125KB.
+(2) The size of local list is : 238.505859375KB.
+(3) The encryption time on INXes is : 2,827ms.
+
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 32564 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 1,017.625KB.
+(2) The size of local list is : 477.01171875KB.
+(3) The encryption time on INXes is : 3,932ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 65128 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 2,035.25KB.
+(2) The size of local list is : 954.0234375KB.
+(3) The encryption time on INXes is : 7,749ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 15842 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 495.0625KB.
+(2) The size of local list is : 232.060546875KB.
+(3) The encryption time on INXes is : 2,332ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 31684 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 990.125KB.
+(2) The size of local list is : 464.12109375KB.
+(3) The encryption time on INXes is : 4,170ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 63369 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 1,980.28125KB.
+(2) The size of local list is : 928.2568359375KB.
+(3) The encryption time on INXes is : 6,265ms.
+
+
+
+
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 31684 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 990.125KB.
+(2) The size of local list is : 464.12109375KB.
+(3) The encryption time on INXes is : 4,055ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 63369 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 1,980.28125KB.
+(2) The size of local list is : 928.2568359375KB.
+(3) The encryption time on INXes is : 5,593ms.
+
+
+
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 63369 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 1,980.28125KB.
+(2) The size of local list is : 928.2568359375KB.
+(3) The encryption time on INXes is : 6,078ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 63369 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 10 ;
+The size of encrypted indexes is : 1,980.28125KB.
+(2) The size of local list is : 433.1865234375KB.
+(3) The encryption time on INXes is : 5,601ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 63369 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 40 ;
+The size of encrypted indexes is : 1,980.28125KB.
+(2) The size of local list is : 1,856.513671875KB.
+(3) The encryption time on INXes is : 6,657ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 31684 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 990.125KB.
+(2) The size of local list is : 464.12109375KB.
+(3) The encryption time on INXes is : 4,024ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 15842 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 495.0625KB.
+(2) The size of local list is : 232.060546875KB.
+(3) The encryption time on INXes is : 2,385ms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 65128 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 2,035.25KB.
+(2) The size of local list is : 954.0234375KB.
+(3) The encryption time on INXes is : 10,773ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 32564 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 1,017.625KB.
+(2) The size of local list is : 477.01171875KB.
+(3) The encryption time on INXes is : 4,105ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 16282 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 508.8125KB.
+(2) The size of local list is : 238.505859375KB.
+(3) The encryption time on INXes is : 2,555ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 9304 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 290.75KB.
+(2) The size of local list is : 136.2890625KB.
+(3) The encryption time on INXes is : 1,975ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 4652 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 145.375KB.
+(2) The size of local list is : 68.14453125KB.
+(3) The encryption time on INXes is : 1,271ms.
+
+
+
+ 1. Dataset Info 
+(1) The current dataset is 4652 tuples ;
+(2) The length of a geohash code in Dataset : t =7 
+
+2.Index Cost (1) The Flag bits length is : 20 ;
+The size of encrypted indexes is : 145.375KB.
+(2) The size of local list is : 68.14453125KB.
+(3) The encryption time on INXes is : 1,513ms.

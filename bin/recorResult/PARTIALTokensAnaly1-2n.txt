@@ -1,0 +1,38 @@
+
+
+ 1. (1) The current query is from the point (32.7318, -117.20191) with a distance of 3000.0m ;
+(2) The length of a search token : tQ =4 
+(3) The Flag bits length : f =20 .
+3. Token Time 
+(1) The time on generating all tokens of UNOPTIMIZED is : 1,900ms.
+(2) The time on generating all tokens of OPTIMIZED is : 1,753ms.
+4. Token Overhead 
+ (1)The size of tokens is : 990.125KB.
+ (2)The size of OPTIMIZED tokens is : 309.4140625KB.
+
+
+
+ 1. (1) The current query is from the point (32.7318, -117.20191) with a distance of 1000.0m ;
+(2) The length of a search token : tQ =5 
+(3) The Flag bits length : f =20 .
+3. Token Time 
+(1) The time on generating all tokens of UNOPTIMIZED is : 1,937ms.
+(2) The time on generating all tokens of OPTIMIZED is : 1,821ms.
+4. Token Overhead 
+ (1)The size of tokens is : 990.125KB.
+ (2)The size of OPTIMIZED tokens is : 386.767578125KB.
+
+
+
+
+ 1. (1) The current query is from the point (32.7318, -117.20191) with a distance of 500.0m ;
+(2) The length of a search token : tQ =6 
+(3) The Flag bits length : f =20 .
+3. Token Time 
+(1) The time on generating all tokens of UNOPTIMIZED is : 2,711ms.
+(2) The time on generating all tokens of OPTIMIZED is : 2,170ms.
+4. Token Overhead 
+ (1)The size of tokens is : 990.125KB.
+ (2)The size of OPTIMIZED tokens is : 464.12109375KB.
+
+
